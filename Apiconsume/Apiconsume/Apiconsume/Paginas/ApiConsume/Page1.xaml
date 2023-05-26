@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Apiconsume.Paginas.Crud.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="lblCab_id" Text="cabecera ID:" FontSize="14" ></Label>
+            <Entry Placeholder="Cabecera ID" x:Name="txtCab_id" />
+            <Label x:Name="lblCab_doc" Text="Documento:" FontSize="14" ></Label>
+            <Entry Placeholder="Documento" x:Name="txtCab_doc" />
+            <Label x:Name="lblCab_descripcion" Text="Descripcion:" FontSize="14" ></Label>
+            <Entry Placeholder="Descripcion" x:Name="txtCab_descripcion"/>
+            <Label x:Name="lblCab_fecha" Text="Fecha:" FontSize="14" ></Label>
+            <DatePicker x:Name="txtCab_fecha" />
+            <Button Text="Leer Datos" Clicked="Btn_Leer" />
+            <Button Text="Insertar" Clicked="Btn_Insertar" />
+            <Button Text="Actualizar" Clicked="Btn_Actualizar" />
+            <Button Text="Eliminar" Clicked="Btn_Eliminar" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

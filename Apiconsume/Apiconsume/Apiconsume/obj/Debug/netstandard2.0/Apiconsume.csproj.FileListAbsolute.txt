@@ -1,0 +1,17 @@
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\bin\Debug\netstandard2.0\Apiconsume.deps.json
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\bin\Debug\netstandard2.0\Apiconsume.dll
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\bin\Debug\netstandard2.0\ref\Apiconsume.dll
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\bin\Debug\netstandard2.0\Apiconsume.pdb
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.csproj.AssemblyReference.cache
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.GeneratedMSBuildEditorConfig.editorconfig
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Paginas\Login\Page1.xaml.g.cs
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.AssemblyInfoInputs.cache
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.AssemblyInfo.cs
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.csproj.CoreCompileInputs.cache
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\XamlC.stamp
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.dll
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\refint\Apiconsume.dll
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Apiconsume.pdb
+D:\aplicaciones mobiles\Apiconsume\Apiconsume\Apiconsume\obj\Debug\netstandard2.0\Paginas\ApiConsume\Page1.xaml.g.cs
